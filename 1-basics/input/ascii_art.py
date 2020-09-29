@@ -1,0 +1,5 @@
+eye=input("Enter robot's eyes plz")
+print("##########")
+print("#  {}  {}  #".format(eye,eye))
+print("#  ----  #")
+print("##########")
