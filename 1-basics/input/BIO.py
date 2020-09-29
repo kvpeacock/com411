@@ -14,5 +14,5 @@ print("##########")
 print("Lives:" + "♥"*int(settings[0]))
 print("Energy:" + "♦"*int(settings[1]))
 print("Shield:" + "♦"*int(settings[2]))
-print ("The robot is called " + name[0] 0+ " and it is " + name[1] + " years old and their bmi is " + str(round(BMI,2)))
+print ("The robot is called " + name[0] + " and it is " + name[1] + " years old and their bmi is " + str(round(BMI,2)))
 
